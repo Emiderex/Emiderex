@@ -13,6 +13,13 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ajibolae123@gmail.com.
 
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emiderex&label=Profile%20views&color=0e75b6&style=flat" alt="Emiderex's Profile" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emiderex" alt="Emiderex Profile" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ajibolaemmanu31" target="blank"><img src="https://img.shields.io/twitter/follow/Emmanuel?logo=twitter&style=for-the-badge" alt="Emiderex Profile" /></a> </p>
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emiderex&show_icons=true&include_all_commits=true&hide_border=true" alt="Emiderex's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emiderex&langs_count=8&layout=compact&hide_border=true" alt="Emiderex's GitHub stats" />
