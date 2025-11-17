@@ -15,9 +15,9 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 
 
 ---
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emiderex&label=Profile%20views&color=0e75b6&style=flat" alt="Emiderex's Profile" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emiderex&label=Profile%20views&color=0e75b6&style=flat" alt="Emiderex's Profile" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emiderex" alt="Emiderex Profile" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emiderex" alt="Emiderex Profile" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ajibolaemmanu31" target="blank"><img src="https://img.shields.io/twitter/follow/Emmanuel?logo=twitter&style=for-the-badge" alt="Emiderex Profile" /></a> </p>
 ---
