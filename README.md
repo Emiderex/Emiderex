@@ -27,6 +27,6 @@ I'm a Front-End Engineer, Graphic Designer, and IT Specialist who currently work
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emiderex&show_icons=true&locale=en&layout=compact" alt="Emiderex github stats" /></p>
 
-![License](https://img.shields.io/github/license/emiderex/API-Calls---Book-Finder)
+![License](https://img.shields.io/github/license/emiderex/markdown-preview-app)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emiderex&" alt="Emiderex github stats" /></p>
